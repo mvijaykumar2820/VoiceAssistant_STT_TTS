@@ -1,0 +1,1 @@
+This project is a prototype of my own personal robot built around an ESP32, designed to take voice input process it using an AI model and talk back using speech output. The current version is a software prototype that handles speech-to-text, AI responses and text-to-speech and it will later be connected and expanded with actual ESP32 hardware as the robot evolves
